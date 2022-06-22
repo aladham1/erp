@@ -6,6 +6,7 @@
   $mode_setting = \App\Models\Utility::mode_layout();
  $logo = App\Models\Utility::get_superadmin_logo();
 
+
 @endphp
 
 {{--<nav class="dash-header  {{(isset($mode_setting['cust_theme_bg']) && $mode_setting['cust_theme_bg'] == 'on')?'transprent-bg':''}}">--}}
