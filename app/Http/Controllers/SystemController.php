@@ -369,7 +369,7 @@ class SystemController extends Controller
 
                 $request->validate(
                     [
-                        'company_logo_dark' => 'image|mimes:png|max:20480',
+                        'company_logo_dark' => 'image|max:20480',
                     ]
                 );
 
@@ -392,7 +392,7 @@ class SystemController extends Controller
             {
                 $request->validate(
                     [
-                        'company_logo_light' => 'image|mimes:png|max:20480',
+                        'company_logo_light' => 'image|max:20480',
                     ]
                 );
                 $logoName     = $user->id . '-logo-light.png';
