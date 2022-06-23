@@ -118,14 +118,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInLeft" data-wow-delay="0.8s">
-                    <a href="{{ route('login') }}" class="btn btn-light me-2"
-                    ><i class="far fa-eye me-2"></i>Live Demo</a
-                    >
-                    <a href="https://codecanyon.net/item/erpgo-saas-all-in-one-business-erp-with-project-account-hrm-crm/33263426" class="btn btn-outline-light" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
             <div class="col-sm-5">
                 <img
@@ -221,11 +214,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInLeft" data-wow-delay="0.8s">
-                    <a href="#" class="btn btn-primary" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
             <div class="col-sm-6">
                 <img
@@ -259,11 +248,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInRight" data-wow-delay="0.8s">
-                    <a href="#" class="btn btn-primary" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
         </div>
     </div>
@@ -378,12 +363,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-center pt-sm-5 feature-mobile-screen">
-            <button class="btn px-sm-5 btn-primary me-sm-3 ">Buy Now</button>
-            <button class="btn px-sm-5 btn-outline-primary">
-                View doucmentation
-            </button>
-        </div>
+
     </div>
 </section>
 <!-- [ feature ] End -->
@@ -405,11 +385,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInLeft" data-wow-delay="0.8s">
-                    <a href="#" class="btn btn-primary" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
             <div class="col-sm-6">
                 <img
@@ -443,11 +419,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInRight" data-wow-delay="0.8s">
-                    <a href="#" class="btn btn-primary" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
         </div>
     </div>
@@ -791,11 +763,7 @@
                     Use these awesome forms to login or create new account in your
                     project for free.
                 </p>
-                <div class="my-4 wow animate__fadeInLeft" data-wow-delay="0.8s">
-                    <a href="#" class="btn btn-primary" target="_blank"
-                    ><i class="fas fa-shopping-cart me-2"></i>Buy now</a
-                    >
-                </div>
+
             </div>
             <div class="col-sm-9">
                 <div class="row feature-img-row">
